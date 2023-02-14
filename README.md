@@ -18,6 +18,7 @@
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
