@@ -60,25 +60,17 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-
-
-
 ```sh
  git clone https://github.com/Rimuru-Tempest-26/Hello-Microverse.git
 ```
-
 
 ### Usage
 
 To run the project, execute the following command:
 
-
-
-
 ```sh
   Run with live server
 ```
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
