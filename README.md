@@ -85,6 +85,17 @@ To run the project, execute the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+- [ ] **responsive design**
+- [ ] **demo project**
+- [ ] **personal profilo**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
