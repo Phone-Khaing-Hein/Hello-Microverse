@@ -18,6 +18,7 @@
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -81,6 +82,16 @@ To run the project, execute the following command:
 - GitHub: [@phonekhainghein](https://github.com/Rimuru-Tempest-26)
 - Twitter: [@phonekhainghein](https://twitter.com/PhoneKhaingHein)
 - LinkedIn: [Phone Khaing Hein](https://www.linkedin.com/in/phone-khaing-hein-759497216/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **responsive design**
+- [ ] **demo project**
+- [ ] **personal profilo**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
